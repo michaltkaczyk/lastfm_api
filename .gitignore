@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Credentials
+last.fm API account credentials.txt
+lastfm_key.txt
+lastfm_user.txt
