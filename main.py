@@ -30,3 +30,5 @@ for scrobbled_item in results:
          scrobbled_item['album']['#text'],
          scrobbled_item['name'],
          scrobbled_item['date']['#text']])
+
+print(tracks_list)
